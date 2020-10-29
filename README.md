@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 
   <img align ="left" alt="EliasPos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EliasPos&count_private=true&show_icons=true&theme=radical"/>
+  
+  <img src="https://novatorem-sepia.vercel.app/api/spotify" alt="EliasPos Spotify Playing" width="350"/>
+  
 
