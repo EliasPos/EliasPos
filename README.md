@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github Stats </summary>
   
-  <img align ="left" alt="codeSTACKr's Github Stats" src="github-readme-stats-eight-amber.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true"/>
+  <img align ="left" alt="codeSTACKr's Github Stats" src="github-readme-stats-eight-amber.vercel.app/api?username=EliasPos&show_icons=true&hide_border=true"/>
