@@ -19,3 +19,5 @@ Here are some ideas to get you started:
   <summary>:zap: Github Stats </summary>
   
   <img align ="left" alt="codeSTACKr's Github Stats" src="github-readme-stats-eight-amber.vercel.app/api?username=EliasPos&show_icons=true&hide_border=true"/>
+ 
+</details>
