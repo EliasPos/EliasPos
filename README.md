@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>
+
   <img align ="left" alt="EliasPos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EliasPos&count_private=true"/>
-</details>
+
